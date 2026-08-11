@@ -1,6 +1,6 @@
-# H5S Documentation
+# rosorin-pro Documentation
 
-This repository contains the H5S VitePress documentation site. The
+This repository contains the rosorin-pro VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/H5S/en/latest/`.
+The staged production files are generated in `projects/rosorin-pro/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://hiwonder-docs.github.io/H5S-vite/projects/H5S/en/latest/
+https://hiwonder-docs.github.io/rosorin-pro-vite/projects/rosorin-pro/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/H5S/en/latest/
+https://wiki-test.hiwonder.com/projects/rosorin-pro/en/latest/
 ```
